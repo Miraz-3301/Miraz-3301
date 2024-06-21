@@ -1,7 +1,7 @@
 
 
 ![Student](https://scontent.fdac88-1.fna.fbcdn.net/v/t39.30808-6/445045879_428108729975188_5919964960928632189_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=OckS8mo-7QwQ7kNvgEfX8mu&_nc_ht=scontent.fdac88-1.fna&oh=00_AYC6cPJoxOjwMzhTJ9rKasifdm6cBqAfkoCEqM1dP8U7Ow&oe=667B9040)
-### Hi there!, It's Md. Miraz Morshed
+### Hi there! It's Md. Miraz Morshed
 Studying BSc engineering in CSE at MIST
 
 Skills: C, html
