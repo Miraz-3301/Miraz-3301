@@ -4,7 +4,7 @@
 ### Hi there!, It's Md. Miraz Morshed
 Studying BSc engineering in CSE at MIST
 
-Skills: C
+Skills: C,html
 
 - I’m currently learning C 
 - Phone: 01533418722 
